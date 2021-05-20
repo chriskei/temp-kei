@@ -143,8 +143,8 @@ export default function Text() {
             <a href='https://worksense.netlify.app/' target='_blank'>
               Worksense
             </a>{' '}
-            - styled components and keyframe animations are pretty hype (and, of
-            course, workplace equality!)
+            - styled components and keyframe animations are pretty hype (along
+            with workplace equality!)
           </li>
           <li>
             (516)434-8766 - really hoping no spam callers find this (does anyone
@@ -161,8 +161,8 @@ export default function Text() {
               Github
             </a>{' '}
             - I may very soon start working on an app that will hopefully cause
-            a big splash in the restaurant scene! (currently brainstorming names
-            that can become as iconic as "Yelp")
+            a big splash in the restaurant scene (currently brainstorming names
+            that can become as iconic as "Yelp", contact me if you have ideas!)
           </li>
         </ul>
         <br></br>
