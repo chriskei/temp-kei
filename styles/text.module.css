@@ -1,0 +1,21 @@
+.container {
+    position: absolute;
+    max-width: 100vw;
+    min-width: 100vw;
+    max-height: 100vh;
+    min-height: 100vh;
+    overflow: scroll;
+}
+
+.head {
+    color: white;
+    text-align: center;
+    margin: 0 5rem 0 5rem;
+    padding-top: 5rem;
+}
+
+.body {
+    color: white;
+    margin: 0 5rem 0 5rem;
+    padding-bottom: 5rem;
+}
