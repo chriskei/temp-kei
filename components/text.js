@@ -30,8 +30,11 @@ export default function Text() {
             three cups of coffee (dark roast with a splash of almond beverage)
           </li>
           <li>
-            12:00 pm - eat a small lunch while playing chess with coworkers
-            (chriske1 on chess.com, challenge me to a daily!)
+            12:00 pm - eat a small lunch while playing chess with coworkers (
+            <a href='https://www.chess.com/member/chriske1'>
+              chriske1 on chess.com
+            </a>
+            , challenge me to a daily!)
           </li>
           <li>
             4:30 pm - pop open my fourth can of grapefruit bubly and a chocolate
@@ -151,10 +154,9 @@ export default function Text() {
             else lookup area codes of new numbers?)
           </li>
           <li>
-            <a href='mailto:kei.c@northeastern.edu'>
-              christopherbkei@gmail.com
-            </a>{' '}
-            - fun fact: the "b" stands for "b"rown rice (jk)
+            <a href='mailto:kei.c@northeastern.edu'>kei.c@northeastern.edu</a> -
+            definitely a better way to reach me than phone (why do people even
+            keep phone numbers on resumes?)
           </li>
           <li>
             <a href='https://github.com/chriskei' target='_blank'>
