@@ -31,7 +31,7 @@ export default function Text() {
           </li>
           <li>
             12:00 pm - eat a small lunch while playing chess with coworkers (
-            <a href='https://www.chess.com/member/chriske1'>
+            <a href='https://www.chess.com/member/chriske1' target='_blank'>
               chriske1 on chess.com
             </a>
             , challenge me to a daily!)
