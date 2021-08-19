@@ -8,7 +8,7 @@ export default function Text() {
       <br></br>
       <div className={styles.body}>
         <p>
-          Hello Scout friends, Jane Street recruiters, and everyone else who
+          Hello Scout friends, technical recruiters, and everyone else who
           stumbled upon this site! I'm Christopher Kei, a rising fourth-year
           computer science and mathematics major with a minor in computational
           data analytics at Northeastern University.
